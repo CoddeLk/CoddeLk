@@ -1,8 +1,10 @@
-# 👨🏾‍💻 Lucas Gabriel
+# 👨🏾‍💻 Lucas Trajano | Back-End Developer
 
 **`Desenvolvedor Junior`**
 
-Me chamo Lucas Gabriel Trajano , tenho 19 anos e sou natural de Pernambuco . Concluí o ensino médio no CODAI-UFRPE, com o curso técnico em agropecuária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Sou apaixonado por tecnologia e compartilho meu conhecimento através do do Instagram, com o perfil chamado "[CodLuccas](https://www.instagram.com/codlucca)".
+Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIT, sou um entusiasta de tecnologia natural de Pernambuco com base técnica em Agropecuária (CODAI-UFRPE). Unir a lógica do campo com a precisão do código me deu uma visão única para resolver problemas.
+🌱 Embaixador DIO 
+
 </a>
    
 
