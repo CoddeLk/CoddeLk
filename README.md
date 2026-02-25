@@ -2,31 +2,10 @@
 
 **`Desenvolvedor Junior`**
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIT, sou um entusiasta de tecnologia natural de Pernambuco com base técnica em Agropecuária (CODAI-UFRPE). Unir a lógica do campo com a precisão do código me deu uma visão única para resolver problemas.
-🌱 Embaixador DIO 
+Natural de Pernambuco e técnico em Agropecuária pelo CODAI-UFRPE, fiz a transição para a tecnologia focado em desenvolvimento Back-end e Segurança. Minha trajetória me permitiu desenvolver uma lógica de resolução de problemas prática e direta. Atualmente, além de cursar ADS na UNIT, atuo como Embaixador na DIO e foco no desenvolvimento de soluções inovadoras como o BemGestar+.
 
 </a>
    
-
-<p>
-    <a href="https://www.instagram.com/codlucca">
-        <img
-            alt="Instagram"
-            title="Instagram"
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="mailto:Lgttrajano@gmail.com">
-        <img
-            alt="Gmail"
-            title="Gmail"
-            src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
-
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -43,11 +22,28 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIT, sou um entus
   
 </p>
 
-### 📊 Estatísticas
+### **Contato & Social**
 
 <p>
-  <img alt="GitHub Stats" height="200" style="padding-right: 10px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=CoddeLk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Tecnologias" height="200" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoddeLk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    <a href="https://www.instagram.com/codlucca">
+        <img
+            alt="Instagram"
+            title="Instagram"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="mailto:Lgttrajano@gmail.com">
+        <img
+            alt="Gmail"
+            title="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
+        />
+    </a>
+   <a href="https://www.linkedin.com/in/lucas-trajano-3a589830b/">
+      <img
+         alt="linkedin"
+         title="linkedin"
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
 </p>
 
 
