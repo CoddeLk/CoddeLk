@@ -33,12 +33,12 @@ Minha base multidisciplinar combina visão sistêmica, rigor analítico e foco e
 
 ### Minha identidade é construída sobre quatro pilares:
 
--🌾 **Origem Prática & Resolução de Problemas:** Minha formação técnica em Agropecuária (CODAI-UFRPE) moldou minha visão sistêmica. Aprendi a lidar com variáveis reais, processos vivos e a encontrar soluções simples para cenários complexos — lições que aplico diariamente na arquitetura de bancos e serviços back-end.
+- 🌾 **Origem Prática & Resolução de Problemas:** Minha formação técnica em Agropecuária (CODAI-UFRPE) moldou minha visão sistêmica. Aprendi a lidar com variáveis reais, processos vivos e a encontrar soluções simples para cenários complexos — lições que aplico diariamente na arquitetura de bancos e serviços back-end.
 - 🔬 **Ciência & Tecnologia com Propósito:** Como pesquisador de Iniciação Científica, aplico Inteligência Artificial na saúde para a detecção precoce de câncer bucal. Acredito que a tecnologia atinge seu ápice quando salva vidas e reduz desigualdades.
 - 🚀 **Espírito Empreendedor & Inovação:** Pelo programa Embarque Digital na UNIT, vivencio o ecossistema do Porto Digital, onde conquistei o 3º lugar no DemoDay com o projeto BemGestar+, focado no cuidado à saúde materna.
 - 🤝 **Comunidade & Liderança:** Acredito que o conhecimento só tem valor quando compartilhado. Minha atuação como Diretor de Extensão na LATEC e a passagem como Embaixador DIO refletem meu compromisso com a formação de comunidades tech ativas e colaborativas.
 
-- Sempre em busca de construir soluções eficientes, escaláveis e de trocar ideias com quem compartilha a paixão por tecnologia. Vamos conversar?
+Sempre em busca de construir soluções eficientes, escaláveis e de trocar ideias com quem compartilha a paixão por tecnologia. Vamos conversar?
 ---
 
 ### 💻 Stack Tecnológica
