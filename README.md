@@ -86,14 +86,14 @@ Minha base multidisciplinar combina visão sistêmica, rigor analítico e foco e
 
 ### 📊 Métricas do GitHub
 
-<div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=CoddeLk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=CoddeLk&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais utilizadas" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CoddeLk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas Gerais" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=CoddeLk&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&cache_seconds=1800" alt="Linguagens Mais Utilizadas" />
+</p>
 
-<div align="center">
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=CoddeLk&theme=tokyonight" alt="Streak de Contribuições" />
-</div>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=CoddeLk&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
+</p>
 
 ---
 
