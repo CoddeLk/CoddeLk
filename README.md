@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👩🏾‍💻 Lucas Trajano</h1>
+  <h1>👨🏾‍💻 Lucas Trajano</h1>
   
   <!-- Efeito de digitação interativo -->
   <a href="https://git.io/typing-svg">
