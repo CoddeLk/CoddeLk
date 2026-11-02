@@ -34,11 +34,13 @@ Minha base multidisciplinar combina visão sistêmica, rigor analítico e foco e
 ### Minha identidade é construída sobre quatro pilares:
 
 - 🌾 **Origem Prática & Resolução de Problemas:** Minha formação técnica em Agropecuária (CODAI-UFRPE) moldou minha visão sistêmica. Aprendi a lidar com variáveis reais, processos vivos e a encontrar soluções simples para cenários complexos — lições que aplico diariamente na arquitetura de bancos e serviços back-end.
+
 - 🔬 **Ciência & Tecnologia com Propósito:** Como pesquisador de Iniciação Científica, aplico Inteligência Artificial na saúde para a detecção precoce de câncer bucal. Acredito que a tecnologia atinge seu ápice quando salva vidas e reduz desigualdades.
+
 - 🚀 **Espírito Empreendedor & Inovação:** Pelo programa Embarque Digital na UNIT, vivencio o ecossistema do Porto Digital, onde conquistei o 3º lugar no DemoDay com o projeto BemGestar+, focado no cuidado à saúde materna.
+
 - 🤝 **Comunidade & Liderança:** Acredito que o conhecimento só tem valor quando compartilhado. Minha atuação como Diretor de Extensão na LATEC e a passagem como Embaixador DIO refletem meu compromisso com a formação de comunidades tech ativas e colaborativas.
 
-Sempre em busca de construir soluções eficientes, escaláveis e de trocar ideias com quem compartilha a paixão por tecnologia. Vamos conversar?
 ---
 
 ### 💻 Stack Tecnológica
@@ -53,17 +55,20 @@ Sempre em busca de construir soluções eficientes, escaláveis e de trocar idei
 
 
 #### 🔹 Frameworks & Back-End
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-#### 🔹 Bancos de Dados
+#### 🔹 Inteligência Artificial & Ciência de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Weka](https://img.shields.io/badge/Weka_ML-005A9C?style=for-the-badge&logo=databricks&logoColor=white)
 
 #### 🔹 DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 
 </div>
 
